@@ -1,0 +1,23 @@
+{
+  "name": "sf-art-tour",
+  "version": "1.0.0",
+  "description": "Information on San Francisco public art",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saragilford/sf-art-tour.git"
+  },
+  "author": "Sara Beth Gilford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saragilford/sf-art-tour/issues"
+  },
+  "homepage": "https://github.com/saragilford/sf-art-tour",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
